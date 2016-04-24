@@ -1,0 +1,8 @@
+160122231336, 88888,  "Terminal City - Linda Fairstein",  10.95, 1, 0.0, 10.95, 22/01/16 23:13:36 EST
+160122231336, 11111,  "Top Secret Twenty One - Janet Evanovich",  8.99, 2, 0.0, 8.99, 22/01/16 23:13:36 EST
+160122231336, 55555,  "Everyday Italian - Giada de Laurentiis",  18.99, 1, 0.0, 18.99, 22/01/16 23:13:36 EST
+160122231336, 33333,  "Gray Mountain - John Grisham",  14.95, 1, 0.0, 14.95, 22/01/16 23:13:36 EST
+160122231638, 11234,  "Tricky Twenty-Two - Janet Evanovich",  12.95, 30, 20.0, 10.36, 22/01/16 23:16:38 EST
+160122231638, 23456,  "14th Deadly Sin - James Patterson",  14.95, 203, 20.0, 11.96, 22/01/16 23:16:38 EST
+160122231638, 55555,  "Everyday Italian - Giada de Laurentiis",  18.99, 6, 10.0, 17.091, 22/01/16 23:16:38 EST
+160122231822, 22222,  "W Is For Wasted - Sue Grafton",  9.95, 600, 20.0, 7.96, 22/01/16 23:18:22 EST
